@@ -1,1 +1,1 @@
-web: ./build/install/diwas-1/bin/diwas-1
+web: ./build/install/komeeko.diwas/bin/komeeko.diwas
